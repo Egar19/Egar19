@@ -31,8 +31,6 @@ Building modern portfolio projects and improving real-world development skills f
 
 ---
 
-## 🚀 Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,tailwind,postgresql,mysql,prisma,docker,git,figma,vscode" />
 </p>
