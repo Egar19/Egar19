@@ -27,7 +27,6 @@ Building modern portfolio projects and improving real-world development skills f
 
 - GitHub: https://github.com/Egar19
 - LinkedIn: www.linkedin.com/in/imadeegarsugraha
-- Portfolio: coming soon
 
 ---
 
