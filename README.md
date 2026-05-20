@@ -33,7 +33,7 @@ Building modern portfolio projects and improving real-world development skills f
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=Egar19&show_icons=true&theme=tokyonight&hide_border=true"
