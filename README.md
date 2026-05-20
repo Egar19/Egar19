@@ -31,16 +31,8 @@ Building modern portfolio projects and improving real-world development skills f
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Tech Stack
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Egar19&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egar19&layout=compact&theme=tokyonight&hide_border=true"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,tailwind,postgresql,mysql,prisma,docker,git,figma,vscode" />
 </p>
