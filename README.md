@@ -1,19 +1,46 @@
-- 👋 Hi, I’m @Egar19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Made Egar 👋
+
+Fullstack Developer from Bali, Indonesia 🇮🇩
+
+I enjoy building modern web applications with clean UI, smooth user experience, and scalable architecture.
+
+## 🚀 Tech Stack
+
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: PostgreSQL, MySQL
+- Tools: Git, Docker, Prisma
+- Currently exploring: AI Engineering & Digital Marketing
+
+## 🌱 Currently Learning
+
+- Advanced Next.js App Router
+- System Design Fundamentals
+- SEO & Social Media Strategy
+- Modern Backend Architecture
+
+## 📌 Current Focus
+
+Building modern portfolio projects and improving real-world development skills for remote opportunities.
+
+## 📫 Connect With Me
+
+- GitHub: <PRIVATE_URL>
+- LinkedIn: www.linkedin.com/in/imadeegarsugraha
+- Portfolio: coming soon
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-<a href="https://github.com/Egar19">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Egar19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Egar19&layout=compact&theme=algolia"/>
-</a>
-</p>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Egar19&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 
-<!---
-Egar19/Egar19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egar19&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
